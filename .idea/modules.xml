@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lightrider.iml" filepath="$PROJECT_DIR$/.idea/modules/lightrider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lightrider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lightrider_main.iml" group="lightrider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lightrider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lightrider_test.iml" group="lightrider" />
+    </modules>
+  </component>
+</project>
